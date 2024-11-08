@@ -3,9 +3,4 @@
   "symbol": "Pillow",
   "description": "Pillow fight club",
   "image": "https://raw.githubusercontent.com/dayyearmon/Solana-developer/refs/heads/main/PILLOW.png"
-  "extensions": {
-    "website": "https://turbotoken.io",
-    "twitter": "https://twitter.com/TurboToadToken",
-    "telegram": "https://tm.me/TurboToadToken"
-  }
 }
