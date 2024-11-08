@@ -1,6 +1,11 @@
 {
-  "name": "Pluszak",
-  "symbol": "PLUSZAK",
-  "description": "Pluszak Test Token Dog",
+  "name": "Pillow",
+  "symbol": "Pillow",
+  "description": "Pillow fight club",
   "image": "https://raw.githubusercontent.com/dayyearmon/Solana-developer/refs/heads/main/pies.png"
+  "extensions": {
+    "website": "https://turbotoken.io",
+    "twitter": "https://twitter.com/TurboToadToken",
+    "telegram": "https://tm.me/TurboToadToken"
+  }
 }
